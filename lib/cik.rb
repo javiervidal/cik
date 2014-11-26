@@ -1,5 +1,2 @@
-require "cik/version"
-
-module Cik
-  # Your code goes here...
-end
+require 'cik/version'
+require 'cik/cik'

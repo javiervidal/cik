@@ -30,13 +30,19 @@ Cik.lookup('CSCO')
 
 The response is a Hash with this format:
 
+```ruby
+{
+  :cik => "0000858877",
+  :name => "CISCO SYSTEMS, INC.",
+  :sic => "3576"
+}
+```
+
 | Key       | Description |
 | ----------| ----------- |
 | cik       | CIK number  |
 | name      | Entity name |
 | sic       | SIC (Standard Industrial Classification) code |
-| address   | Entity address |
-| phone     | Entity phone |
 
 ## Contributing
 
