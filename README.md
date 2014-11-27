@@ -52,6 +52,10 @@ The response is a Hash with this format:
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
 
+## Code Status
+
+[![Code Climate](https://codeclimate.com/github/javiervidal/cik/badges/gpa.svg)](https://codeclimate.com/github/javiervidal/cik)
+
 ## Copyright
 
 Copyright (c) 2014 – ∞ Javier Vidal
