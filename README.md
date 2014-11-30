@@ -54,6 +54,7 @@ The response is a Hash with this format:
 
 ## Code Status
 
+[![Build Status](https://travis-ci.org/javiervidal/cik.svg?branch=master)](https://travis-ci.org/javiervidal/cik)
 [![Code Climate](https://codeclimate.com/github/javiervidal/cik/badges/gpa.svg)](https://codeclimate.com/github/javiervidal/cik)
 
 ## Copyright

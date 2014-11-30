@@ -1,7 +1,9 @@
 require 'simplecov'
-require 'coveralls'
-
 SimpleCov.start
+
+require 'coveralls'
+Coveralls.wear!
+
 
 require 'cik'
 require 'webmock/rspec'
