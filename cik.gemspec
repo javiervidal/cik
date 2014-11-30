@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["javier@javiervidal.net"]
   spec.summary       = 'CIK lookup in EDGAR database'
   spec.description   = 'CIK lookup in EDGAR database'
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/javiervidal/cik"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
