@@ -54,7 +54,7 @@ The response is a Hash with this format:
 
 ## Code Status
 
-[![Gem Version](https://badge.fury.io/rb/cik.svg)](http://badge.fury.io/rb/cik)
+[![Gem Version](http://img.shields.io/badge/gem-v1.0.1-blue.svg)](https://rubygems.org/gems/cik)
 [![Build Status](https://travis-ci.org/javiervidal/cik.svg?branch=master)](https://travis-ci.org/javiervidal/cik)
 [![Coverage Status](https://coveralls.io/repos/javiervidal/cik/badge.png?branch=master)](https://coveralls.io/r/javiervidal/cik?branch=master)
 [![Code Climate](https://codeclimate.com/github/javiervidal/cik/badges/gpa.svg)](https://codeclimate.com/github/javiervidal/cik)
