@@ -8,6 +8,8 @@ SimpleCov.start
 require 'cik'
 require 'webmock/rspec'
 
+WebMock.disable_net_connect!(allow: 'coveralls.io')
+
 RSpec.configure do |config|
   config.before(:each) do
     stub_request(:get, "http://www.sec.gov/cgi-bin/browse-edgar?CIK=CSCO&action=getcompany").
