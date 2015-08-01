@@ -4,6 +4,8 @@
 
 ### Added
 - This CHANGELOG.md file
+- .ruby-version
+- .ruby-gemset
 
 ### Changed
 - Improve README.md
