@@ -54,7 +54,7 @@ The response is a Hash with this format:
 
 ## Changelog
 
-    [Changelog](https://github.com/javiervidal/cik/blob/master/CHANGELOG.md)
+[Changelog](https://github.com/javiervidal/cik/blob/master/CHANGELOG.md)
 
 ## Contributing
 
