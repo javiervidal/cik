@@ -44,6 +44,18 @@ The response is a Hash with this format:
 | name      | Entity name |
 | sic       | SIC (Standard Industrial Classification) code |
 
+## How to Launch the Console
+
+    $ rake console
+
+## How to Run the Test Suite
+
+    $ rspec
+
+## Changelog
+
+    [Changelog](https://github.com/javiervidal/cik/blob/master/CHANGELOG.md)
+
 ## Contributing
 
 1. Fork it ( http://github.com/javiervidal/cik/fork )
